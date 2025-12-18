@@ -1,0 +1,3 @@
+/home/pavel/MyFiles/OOP_labs/OOP_lab7/build/CMakeFiles/rpg_editor.dir
+/home/pavel/MyFiles/OOP_labs/OOP_lab7/build/CMakeFiles/edit_cache.dir
+/home/pavel/MyFiles/OOP_labs/OOP_lab7/build/CMakeFiles/rebuild_cache.dir
